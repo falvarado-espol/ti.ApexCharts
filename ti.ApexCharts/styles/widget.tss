@@ -2,15 +2,15 @@
 	url : WPATH('/html/apex.html'),
     backgroundColor : 'transparent',
     enableZoomControls : false,
-    width : Ti.UI.SIZE,
-    height : Ti.UI.SIZE
+    width : 350,
+    height : 350
 }
 
 "#chartWebView[platform=android]" : {
 	url : WPATH('/html/apex.html'),
     backgroundColor : 'transparent',
     enableZoomControls : false,
-    width : Ti.UI.SIZE,
-    height : Ti.UI.SIZE,
+    width : 350,
+    height : 350
     borderRadius : 1
 }
